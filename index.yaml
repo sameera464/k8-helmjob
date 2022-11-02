@@ -9,6 +9,6 @@ entries:
     name: job
     type: application
     urls:
-    - https://github.com/sameera464/k8-helmjob/job-0.1.0.tgz
+    - https://sameera464.github.io/k8-helmjob/job-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-02T19:08:12.476266-04:00"

@@ -3,12 +3,12 @@ entries:
   job:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-02T19:08:12.476696-04:00"
+    created: "2022-11-14T19:26:03.407223-05:00"
     description: A Helm chart for Kubernetes
-    digest: 554d0fc0b0456bba489cb5ae0eccf7a37e80391748126782893ef7e321c4b2e3
+    digest: 100c2fecb4a78db1fb65b6d4045fc81556c1806fed06082301827ece8e0a5c9a
     name: job
     type: application
     urls:
-    - https://sameera464.github.io/k8-helmjob/job-0.1.0.tgz
+    - job-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-02T19:08:12.476266-04:00"
+generated: "2022-11-14T19:26:03.406811-05:00"
